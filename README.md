@@ -6,5 +6,4 @@ Trust-GRS is a zero-knowledge two-stage trustworthy GNN-based recommender system
 ## Contact
 This repository is managed and maintained by:
 - LingYu Mu mulingyu@iie.ac.cn
-- ZhengXiao Liu liuzhengxiao@iie.ac.cn
 
